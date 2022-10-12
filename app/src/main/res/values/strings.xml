@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz0</string>
+    <string name="q_1">Czy dem to podstawowa jednostka administracyjna w starożytnej Grecji? </string>
+    <string name="q_2">Czy bod to miara szybkości zmian w ośrodku przenoszącym informacje?</string>
+    <string name="q_3">Czy Karol de Prevot to polski malarz włoskiego pochodzenia, tworzący w XVII/XVIII wieku?</string>
+    <string name="q_4">Holakracja to system zarządzania organizacjami</string>
+    <string name="q_5">MacGyver to brytyjski serial telewizyjny</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Błędna odpowiedź</string>
+
+
+</resources>
